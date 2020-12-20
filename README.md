@@ -1,3 +1,5 @@
+FROM : https://qiita.com/kuro4/items/fdfbc130b3b10ea64b38
+
 # Prism.CommonDialogPack
 PrismのDialogServiceを利用した汎用的なダイアログを提供するライブラリ
 # 機能
